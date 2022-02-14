@@ -1,0 +1,16 @@
+C:\Users\Enzo\source\repos\Playground\Heroes\bin\Debug\net5.0\Heroes.exe
+C:\Users\Enzo\source\repos\Playground\Heroes\bin\Debug\net5.0\Heroes.deps.json
+C:\Users\Enzo\source\repos\Playground\Heroes\bin\Debug\net5.0\Heroes.runtimeconfig.json
+C:\Users\Enzo\source\repos\Playground\Heroes\bin\Debug\net5.0\Heroes.runtimeconfig.dev.json
+C:\Users\Enzo\source\repos\Playground\Heroes\bin\Debug\net5.0\Heroes.dll
+C:\Users\Enzo\source\repos\Playground\Heroes\bin\Debug\net5.0\ref\Heroes.dll
+C:\Users\Enzo\source\repos\Playground\Heroes\bin\Debug\net5.0\Heroes.pdb
+C:\Users\Enzo\source\repos\Playground\Heroes\obj\Debug\net5.0\Heroes.csproj.AssemblyReference.cache
+C:\Users\Enzo\source\repos\Playground\Heroes\obj\Debug\net5.0\Heroes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enzo\source\repos\Playground\Heroes\obj\Debug\net5.0\Heroes.AssemblyInfoInputs.cache
+C:\Users\Enzo\source\repos\Playground\Heroes\obj\Debug\net5.0\Heroes.AssemblyInfo.cs
+C:\Users\Enzo\source\repos\Playground\Heroes\obj\Debug\net5.0\Heroes.csproj.CoreCompileInputs.cache
+C:\Users\Enzo\source\repos\Playground\Heroes\obj\Debug\net5.0\Heroes.dll
+C:\Users\Enzo\source\repos\Playground\Heroes\obj\Debug\net5.0\ref\Heroes.dll
+C:\Users\Enzo\source\repos\Playground\Heroes\obj\Debug\net5.0\Heroes.pdb
+C:\Users\Enzo\source\repos\Playground\Heroes\obj\Debug\net5.0\Heroes.genruntimeconfig.cache
